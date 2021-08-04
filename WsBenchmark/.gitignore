@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+.idea/
+*.user
+*.sln
+*.sln.DotSettings.user
+/blast-remediation-csharp.sln.DotSettings.user
